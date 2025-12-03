@@ -67,19 +67,21 @@ Notebook que incluye:
 ## 🚀 Rendimiento aproximado
 
 Benchmarks típicos usando señales de tamaño `1000 × 100`, repetidos 100 veces:
--1toro2 ~50× más rápido que toro
--toro2_1 ~82× más rápido que toro
--toro2_2 ~100× más rápido que toro
--toro2_2_joblib_batch ~38× más rápido que toro
--toro2_2_torch_batch ~440× más rápido que toro
--toroD ~74× más rápido que toro
--toroD_joblib_batch ~40× más rápido
--toroD_torch_batch ~675× más rápido
+| Versión | optimizado |
+|--------|-------------|
+| 1toro2 | ~50× más rápido que toro |
+| toro2_1 | ~82× más rápido que toro |
+| toro2_2 | ~100× más rápido que toro |
+| toro2_2_joblib_batch | ~38× más rápido que toro |
+| toro2_2_torch_batch | ~440× más rápido que toro |
+| toroD | ~74× más rápido que toro |
+| toroD_joblib_batch | ~40× más rápido |
+| toroD_torch_batch | ~675× más rápido |
 
 
 ### Hardware utilizado
 
-- **GPU NVIDIA RTX 5070 Ti (CUDA)**  
+- **GPU NVIDIA RTX 4060 Ti (CUDA)**  
   → Máximo rendimiento observado (hasta 675×).
 
 - **MacBook Pro M1 Pro (GPU 16-core, backend MPS)**  
