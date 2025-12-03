@@ -43,7 +43,7 @@ Incluye todas las versiones optimizadas de la medida J:
 ---
 
 ### `D_measure.py`
-Implementación optimizada de la medida J (artículo en revisión *Brain*):
+Implementación optimizada de la medida D (artículo en revisión *Brain*):
 
 | Versión | Tecnologías | Descripción |
 |--------|-------------|-------------|
