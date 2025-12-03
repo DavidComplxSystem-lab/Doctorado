@@ -75,8 +75,8 @@ Benchmarks típicos usando señales de tamaño `1000 × 100`, repetidos 100 vece
 | toro2_2_joblib_batch | ~38× más rápido que toro |
 | toro2_2_torch_batch | ~440× más rápido que toro |
 | toroD | ~74× más rápido que toro |
-| toroD_joblib_batch | ~40× más rápido |
-| toroD_torch_batch | ~675× más rápido |
+| toroD_joblib_batch | ~40× más rápido que toro |
+| toroD_torch_batch | ~675× más rápido que toro|
 
 
 ### Hardware utilizado
